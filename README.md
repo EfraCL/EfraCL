@@ -1,4 +1,4 @@
-### Bienvenido/a a mi rinconcico 
+### Bienvenido/a a mi rinconcico 🍋
 
 <!--
 **EfraCL/EfraCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
