@@ -15,3 +15,5 @@ Este repositorio surge como fruto de mi gran interés por la programación y de 
 La comunidad que hay detrás del software libre es impresionante. ¡Viva el software libre! 🥳
 
 #### Mis repositorios 👀
+* [Calculo de intensidad de lluvia](https://github.com/EfraCL/Calculo_intensidad_lluvia)
+* [Conductividad hidráulica saturada](https://github.com/EfraCL/Conductividad_hidraulica)
