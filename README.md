@@ -17,3 +17,4 @@ La comunidad que hay detrás del software libre es impresionante. ¡Viva el soft
 #### Mis repositorios 👀
 * [Calculo de intensidad de lluvia](https://github.com/EfraCL/Calculo_intensidad_lluvia)
 * [Conductividad hidráulica saturada](https://github.com/EfraCL/Conductividad_hidraulica)
+* [Longitud de curva](https://github.com/EfraCL/Longitud-de-curva)
